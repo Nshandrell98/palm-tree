@@ -1,0 +1,1 @@
+DELETE from info where id = 2;
